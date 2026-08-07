@@ -43,7 +43,7 @@ layers:
   - {t: LEFT WIN, h: '1'}
   - SPACE
   - BSPC
-  - '2'
+  - {t: SPACE, h: '2'}
   - {t: RWIN, h: '4'}
   '1':
   - ESCAPE
