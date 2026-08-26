@@ -58,7 +58,7 @@ layers:
   - '7'
   - '8'
   - '9'
-  - {t: ▽, type: trans}
+  - LCTRL
   - {t: ▽, type: trans}
   - LEFT
   - DOWN
@@ -76,7 +76,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LALT
   - '{'
   - '}'
   - KP MULTIPLY
